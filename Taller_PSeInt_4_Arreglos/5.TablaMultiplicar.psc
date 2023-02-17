@@ -8,8 +8,8 @@ Proceso Cinco
 	Para fila1 <- 0 Hasta 9 con paso 1 Hacer
         colum1 <- fila1;
         Escribir  "       ", colum1 Sin Saltar;
-    FinPara
-    Escribir " ";
+    	FinPara
+    	Escribir " ";
 	
 	Para fila <- 1 Hasta 10 Con Paso 1 Hacer
 		Para columna <- 1 Hasta 10 Con Paso 1 Hacer
@@ -32,15 +32,15 @@ Proceso Cinco
 	FinPara
 	
 	Mientras seleccion = Verdadero Hacer
-		Escribir "¿Qué desea hacer?";
+		Escribir "Â¿QuÃ© desea hacer?";
 		Escribir "1. Ver el resultado.";
 		Escribir "2. Salir del sistema.";
 		Leer opcion;
 		Segun opcion Hacer
 			1:
-				Escribir "Número de la fila:";
+				Escribir "NÃºmero de la fila:";
 				Leer fila;
-				Escribir "Número de la columna:";
+				Escribir "NÃºmero de la columna:";
 				Leer columna;
 				Escribir "El resultado es: ", matriz[fila, columna];
 			2:
