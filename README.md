@@ -1,8 +1,5 @@
-# Taller de control de versiones con Github
+# Taller de Funciones 
 
-1. Rama master o main: vacío
-2. Rama taller1: Taller #1 - Variables e impresión
-3. Rama taller2: Taller #2 - Condicionales
-4. Rama taller3: Taller #3 - Ciclos
-5. Rama taller4: Taller #4 - Arreglos
-6. Rama taller5: Taller #5 - Funciones
+1. Organizar todos los puntos del taller de condicionales en modo funciones.
+2. Organizar los puntos 6, 7 y 8 del taller de ciclos en modo funciones.
+3. Organizar todos los puntos del taller de arreglos en modo funciones.
