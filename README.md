@@ -1,4 +1,4 @@
-Taller de control de versiones con Github
+# Taller de control de versiones con Github
 
 1. Rama master o main: vacío
 2. Rama taller1: Taller #1 - Variables e impresión
